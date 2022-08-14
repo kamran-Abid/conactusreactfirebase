@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/conactusreactfirebase/static/css/main.5d4dbd5a.css",
+    "main.js": "/conactusreactfirebase/static/js/main.409a1e7a.js",
+    "static/js/787.088b27fd.chunk.js": "/conactusreactfirebase/static/js/787.088b27fd.chunk.js",
+    "index.html": "/conactusreactfirebase/index.html",
+    "main.5d4dbd5a.css.map": "/conactusreactfirebase/static/css/main.5d4dbd5a.css.map",
+    "main.409a1e7a.js.map": "/conactusreactfirebase/static/js/main.409a1e7a.js.map",
+    "787.088b27fd.chunk.js.map": "/conactusreactfirebase/static/js/787.088b27fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d4dbd5a.css",
+    "static/js/main.409a1e7a.js"
+  ]
+}
